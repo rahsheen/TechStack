@@ -1,0 +1,8 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`creates a SELECT_LIBRARY action 1`] = `
+Object {
+  "payload": 1000,
+  "type": "select_library",
+}
+`;

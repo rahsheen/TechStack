@@ -1,0 +1,452 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<View
+  style={
+    Object {
+      "flex": 1,
+    }
+  }
+>
+  <View
+    style={
+      Object {
+        "alignItems": "center",
+        "backgroundColor": "#F8F8F8",
+        "elevation": 2,
+        "height": 60,
+        "justifyContent": "center",
+        "paddingTop": 15,
+        "position": "relative",
+        "shadowColor": "#000",
+        "shadowOffset": Object {
+          "height": 2,
+          "width": 0,
+        },
+        "shadowOpacity": 0.2,
+      }
+    }
+  >
+    <Text
+      accessible={true}
+      allowFontScaling={true}
+      ellipsizeMode="tail"
+      style={
+        Object {
+          "fontSize": 20,
+        }
+      }
+    >
+      Tech Stack
+    </Text>
+  </View>
+  <RCTScrollView
+    dataSource={
+      ListViewDataSource {
+        "items": 9,
+      }
+    }
+    renderRow={[Function]}
+    renderScrollComponent={[Function]}
+  >
+    <View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={undefined}
+        testID={undefined}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#fff",
+              "borderBottomWidth": 1,
+              "borderColor": "#ddd",
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+              "padding": 5,
+              "position": "relative",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "paddingLeft": 15,
+              }
+            }
+          >
+            Webpack
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={undefined}
+        testID={undefined}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#fff",
+              "borderBottomWidth": 1,
+              "borderColor": "#ddd",
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+              "padding": 5,
+              "position": "relative",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "paddingLeft": 15,
+              }
+            }
+          >
+            React
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={undefined}
+        testID={undefined}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#fff",
+              "borderBottomWidth": 1,
+              "borderColor": "#ddd",
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+              "padding": 5,
+              "position": "relative",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "paddingLeft": 15,
+              }
+            }
+          >
+            Redux
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={undefined}
+        testID={undefined}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#fff",
+              "borderBottomWidth": 1,
+              "borderColor": "#ddd",
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+              "padding": 5,
+              "position": "relative",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "paddingLeft": 15,
+              }
+            }
+          >
+            React-Redux
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={undefined}
+        testID={undefined}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#fff",
+              "borderBottomWidth": 1,
+              "borderColor": "#ddd",
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+              "padding": 5,
+              "position": "relative",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "paddingLeft": 15,
+              }
+            }
+          >
+            Lodash
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={undefined}
+        testID={undefined}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#fff",
+              "borderBottomWidth": 1,
+              "borderColor": "#ddd",
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+              "padding": 5,
+              "position": "relative",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "paddingLeft": 15,
+              }
+            }
+          >
+            Redux-Thunk
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={undefined}
+        testID={undefined}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#fff",
+              "borderBottomWidth": 1,
+              "borderColor": "#ddd",
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+              "padding": 5,
+              "position": "relative",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "paddingLeft": 15,
+              }
+            }
+          >
+            ESLint
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={undefined}
+        testID={undefined}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#fff",
+              "borderBottomWidth": 1,
+              "borderColor": "#ddd",
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+              "padding": 5,
+              "position": "relative",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "paddingLeft": 15,
+              }
+            }
+          >
+            Babel
+          </Text>
+        </View>
+      </View>
+      <View
+        accessibilityComponentType={undefined}
+        accessibilityLabel={undefined}
+        accessibilityTraits={undefined}
+        accessible={true}
+        hitSlop={undefined}
+        onLayout={undefined}
+        onResponderGrant={[Function]}
+        onResponderMove={[Function]}
+        onResponderRelease={[Function]}
+        onResponderTerminate={[Function]}
+        onResponderTerminationRequest={[Function]}
+        onStartShouldSetResponder={[Function]}
+        style={undefined}
+        testID={undefined}
+      >
+        <View
+          style={
+            Object {
+              "backgroundColor": "#fff",
+              "borderBottomWidth": 1,
+              "borderColor": "#ddd",
+              "flexDirection": "row",
+              "justifyContent": "flex-start",
+              "padding": 5,
+              "position": "relative",
+            }
+          }
+        >
+          <Text
+            accessible={true}
+            allowFontScaling={true}
+            ellipsizeMode="tail"
+            style={
+              Object {
+                "fontSize": 18,
+                "paddingLeft": 15,
+              }
+            }
+          >
+            Axios
+          </Text>
+        </View>
+      </View>
+    </View>
+  </RCTScrollView>
+</View>
+`;
